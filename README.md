@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoleneLubbe
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently learning front end 
+- 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on anything that can help
 
 
